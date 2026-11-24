@@ -1,0 +1,31 @@
+{
+  "id": "./",
+  "name": "Focus \u2014 Pomodoro & Tasks",
+  "short_name": "Focus",
+  "description": "A focused Pomodoro timer and task manager.",
+  "start_url": "./focus.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#09090a",
+  "theme_color": "#09090a",
+  "icons": [
+    {
+      "src": "./icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
