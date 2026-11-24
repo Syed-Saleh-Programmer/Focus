@@ -3,7 +3,7 @@
   "name": "Focus \u2014 Pomodoro & Tasks",
   "short_name": "Focus",
   "description": "A focused Pomodoro timer and task manager.",
-  "start_url": "./focus.html",
+  "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
   "background_color": "#09090a",
